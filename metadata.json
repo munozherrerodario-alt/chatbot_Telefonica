@@ -1,0 +1,5 @@
+{
+  "name": "Telefónica Empresas - Asistente RAG",
+  "description": "Asistente inteligente de atención al cliente especializado en conectividad, telefonía y cloud, con base de conocimiento estructurada y reglas RAG estrictas.",
+  "requestFramePermissions": []
+}
